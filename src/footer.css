@@ -1,0 +1,23 @@
+.checkbox input:active {
+  background-color: red;
+}
+
+.footer-link {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.footer-content {
+  cursor: pointer;
+}
+
+.email::placeholder {
+  font-size: 20px;
+  color: white;
+}
+
+.email {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
